@@ -1,0 +1,11 @@
+{
+  "ticket_id": "TCK-1002",
+  "draft_reply": "Subject: Re: Cannot log into my account\n\nDear [Customer],\n\nThank you for reaching out to us about the issue you're experiencing with logging into your account. Sorry to hear that you're getting an 'invalid credentials' error despite not having changed your password.\n\nBased on our policy, it's possible that your account may be locked due to 5 consecutive failed login attempts. In this case, you can try waiting 15 minutes and then attempting to log in again, or use the password reset flow to unlock your account immediately.\n\nIf you're still having trouble, please try clearing your browser cache and cookies, then try logging in again. You can also try using an incognito/private browsing window or disabling browser extensions that may interfere with login forms.\n\nIf none of these steps resolve the issue, please let us know and we'll be happy to assist you further.\n\nBest regards,\n[Your Name]",
+  "route_decision": "AUTO_RESOLVE",
+  "confidence_score": 0.6621,
+  "retrieved_sources": [
+    "account_access_faq.md"
+  ],
+  "reviewer_action": null,
+  "reviewer_comments": null
+}

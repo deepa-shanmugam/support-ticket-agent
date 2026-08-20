@@ -1,0 +1,88 @@
+[
+  {
+    "ticket_id": "TCK-1001",
+    "customer_id": "CUST-001",
+    "subject": "Refund request for annual plan",
+    "message": "I was charged for an annual plan yesterday. I forgot to cancel. Can I get a refund?",
+    "conversation_history": [],
+    "priority": "medium",
+    "category": "refund_request",
+    "created_at": "2026-08-15T09:00:00Z"
+  },
+  {
+    "ticket_id": "TCK-1002",
+    "customer_id": "CUST-002",
+    "subject": "Cannot log into my account",
+    "message": "I have been trying to log in for the past hour but keep getting an 'invalid credentials' error. I haven't changed my password.",
+    "conversation_history": [],
+    "priority": "high",
+    "category": "login_access_issue",
+    "created_at": "2026-08-15T09:15:00Z"
+  },
+  {
+    "ticket_id": "TCK-1003",
+    "customer_id": "CUST-003",
+    "subject": "Cancel my subscription",
+    "message": "I would like to cancel my monthly subscription effective immediately. Please confirm cancellation and ensure I'm not billed next month.",
+    "conversation_history": [],
+    "priority": "medium",
+    "category": "subscription_cancellation",
+    "created_at": "2026-08-15T09:30:00Z"
+  },
+  {
+    "ticket_id": "TCK-1004",
+    "customer_id": "CUST-004",
+    "subject": "App crashes on startup",
+    "message": "Every time I open the app on my iPhone it crashes immediately. I've tried reinstalling it twice. Running iOS 17.5.",
+    "conversation_history": [],
+    "priority": "high",
+    "category": "product_troubleshooting",
+    "created_at": "2026-08-15T09:45:00Z"
+  },
+  {
+    "ticket_id": "TCK-1005",
+    "customer_id": "CUST-005",
+    "subject": "This is outrageous!!!",
+    "message": "You people are useless! I want my money back NOW or I'll destroy your company online. You're all criminals!",
+    "conversation_history": [],
+    "priority": "high",
+    "category": "abusive_message",
+    "created_at": "2026-08-15T10:00:00Z"
+  },
+  {
+    "ticket_id": "TCK-1006",
+    "customer_id": "CUST-001",
+    "subject": "Second refund request",
+    "message": "I submitted a refund request last month and it was approved. I accidentally renewed again. Need another refund please.",
+    "conversation_history": [
+      {
+        "role": "agent",
+        "message": "Your previous refund request TCK-0987 was approved on 2026-07-20.",
+        "timestamp": "2026-07-20T14:00:00Z"
+      }
+    ],
+    "priority": "medium",
+    "category": "refund_request",
+    "created_at": "2026-08-15T10:15:00Z"
+  },
+  {
+    "ticket_id": "TCK-1007",
+    "customer_id": "CUST-007",
+    "subject": "How do I export my data?",
+    "message": "I want to export all my data before cancelling. Is there an option to do that? I couldn't find it in settings.",
+    "conversation_history": [],
+    "priority": "low",
+    "category": "product_troubleshooting",
+    "created_at": "2026-08-15T10:30:00Z"
+  },
+  {
+    "ticket_id": "TCK-1008",
+    "customer_id": "CUST-008",
+    "subject": "Charged twice this month",
+    "message": "I see two charges of $29.99 from your company on my bank statement for August. I only have one account. Please investigate.",
+    "conversation_history": [],
+    "priority": "high",
+    "category": "billing_issue",
+    "created_at": "2026-08-15T10:45:00Z"
+  }
+]

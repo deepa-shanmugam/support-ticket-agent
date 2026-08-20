@@ -1,0 +1,14 @@
+{
+  "ticket_id": "TCK-1005",
+  "route_decision": "REFUSE",
+  "confidence_score": 0.7685714285714286,
+  "sentiment": "abusive",
+  "policy_found": true,
+  "retrieved_sources": [
+    "account_access_faq.md",
+    "refund_policy.md"
+  ],
+  "reviewer_action": null,
+  "reviewer_comments": null,
+  "logged_at": "2026-08-16T16:13:31.290358"
+}

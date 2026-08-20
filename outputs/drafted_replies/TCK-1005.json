@@ -1,0 +1,12 @@
+{
+  "ticket_id": "TCK-1005",
+  "draft_reply": "Thank you for reaching out. We want to help resolve your issue, but we're unable to assist when messages contain threatening or abusive language. Please contact us again when you are ready to communicate respectfully, and we will be happy to help.",
+  "route_decision": "REFUSE",
+  "confidence_score": 0.7686,
+  "retrieved_sources": [
+    "account_access_faq.md",
+    "refund_policy.md"
+  ],
+  "reviewer_action": null,
+  "reviewer_comments": null
+}

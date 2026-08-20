@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TCK-1006",
+  "route_decision": "ESCALATE",
+  "confidence_score": 0.777027027027027,
+  "sentiment": "neutral",
+  "policy_found": true,
+  "retrieved_sources": [
+    "refund_policy.md"
+  ],
+  "reviewer_action": "APPROVED",
+  "reviewer_comments": "",
+  "logged_at": "2026-08-16T16:15:47.656214"
+}

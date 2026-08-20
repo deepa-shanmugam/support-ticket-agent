@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TCK-1004",
+  "route_decision": "AUTO_RESOLVE",
+  "confidence_score": 0.7182432432432432,
+  "sentiment": "negative",
+  "policy_found": true,
+  "retrieved_sources": [
+    "troubleshooting_faq.md"
+  ],
+  "reviewer_action": "APPROVED",
+  "reviewer_comments": "",
+  "logged_at": "2026-08-16T16:15:46.413690"
+}

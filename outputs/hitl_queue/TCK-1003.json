@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TCK-1003",
+  "draft_reply": "Subject: Re: Cancel my subscription\n\nDear [Customer],\n\nThank you for reaching out to cancel your monthly subscription. I'm happy to assist you with the cancellation process.\n\nAccording to our Subscription Policy, cancellations take effect at the end of the current billing period. This means that your subscription will be cancelled at the end of the current 30-day billing cycle, and you won't be billed for the next month.\n\nTo confirm, I've cancelled your subscription in our system. You can verify this by checking your Account Settings \u2192 Billing \u2192 Subscription Status.\n\nIf you have any further questions or concerns, please don't hesitate to reach out. We appreciate your business and wish you the best.\n\nBest regards,\n[Your Name]",
+  "route_decision": "AUTO_RESOLVE",
+  "confidence_score": 0.7059322033898304,
+  "retrieved_sources": [
+    "subscription_policy.md"
+  ],
+  "submitted_at": "2026-08-16T16:12:48.507931",
+  "reviewer_action": "APPROVED",
+  "reviewer_comments": "",
+  "status": "REVIEWED"
+}

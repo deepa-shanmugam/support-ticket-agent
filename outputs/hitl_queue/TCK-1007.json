@@ -1,0 +1,14 @@
+{
+  "ticket_id": "TCK-1007",
+  "draft_reply": "Subject: Re: How do I export my data?\n\nDear [Customer],\n\nThank you for reaching out to us about exporting your data before cancelling your subscription. I'm happy to help.\n\nTo export your data, please go to **Account Settings \u2192 Data \u2192 Export**. This will initiate the export process, and you'll receive an email with a download link once it's ready. Please note that large exports may take up to 30 minutes, and the exported data will be retained for 48 hours.\n\nIf you have any issues with the export process, please let me know, and I'll be happy to assist you further.\n\nBest regards,\n[Your Name]",
+  "route_decision": "AUTO_RESOLVE",
+  "confidence_score": 0.6613207547169812,
+  "retrieved_sources": [
+    "subscription_policy.md",
+    "troubleshooting_faq.md"
+  ],
+  "submitted_at": "2026-08-16T16:14:14.664397",
+  "reviewer_action": "APPROVED",
+  "reviewer_comments": "",
+  "status": "REVIEWED"
+}
